@@ -12,8 +12,6 @@ pip install i-will
 
 To use, attach `I`, `I will`, or `please` in front of the command and switch the order of the second and first argument of the command. For example, `pip list` can be used as `I list pip` or `please list pip`.
 
-For example:
-
 ```console
 I list pip                 # executes: `pip list`
 I will run cargo           # executes: `cargo run`
