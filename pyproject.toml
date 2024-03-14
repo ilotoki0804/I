@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "i-will"
-version = "0.1.0"
+version = "0.1.1"
 description = "Use commands with \"me\""
 authors = ["ilotoki0804 <ilotoki0804@gmail.com>"]
 license = "MIT"
