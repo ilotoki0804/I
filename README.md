@@ -18,5 +18,5 @@ For example:
 I run cargo                # executes: `cargo run`
 I will list pip            # executes: `pip list`
 please install pip i-will  # executes: `pip install i-will`
-please will run cargo      # XXX It'll cause error.
+XXX please will run cargo  # This will cause error.
 ```
