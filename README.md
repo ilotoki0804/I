@@ -15,8 +15,8 @@ To use, attach `I`, `I will`, or `please` in front of the command and switch the
 For example:
 
 ```console
-I run cargo                # executes: `cargo run`
-I will list pip            # executes: `pip list`
+I list pip                 # executes: `pip list`
+I will run cargo           # executes: `cargo run`
 please install pip i-will  # executes: `pip install i-will`
 XXX please will run cargo  # This will cause error.
 ```
